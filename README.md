@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consists of creating an Active Directory Home Lab environment using Oracle Virtual Box. 
+This project consists of creating an Active Directory Home Lab environment using Oracle Virtual Box. We also add users in the active directory using a simple PowerShell script.
 <br />
 
 
