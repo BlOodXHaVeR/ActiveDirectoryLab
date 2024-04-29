@@ -19,32 +19,40 @@ This project consists of creating an Active Directory Home Lab environment using
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Controller: <br/>
+<img src="https://i.imgur.com/Ix3eamQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Domain Services:  <br/>
+<img src="https://i.imgur.com/rhse7ZA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Admin: <br/>
+<img src="https://i.imgur.com/laREL6u.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Routing and Remote Access(NAT):  <br/>
+<img src="https://i.imgur.com/S2kJS7j.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Server:  <br/>
+<img src="https://i.imgur.com/kF2glf0.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Users created in Active Directory:  <br/>
+<img src="https://i.imgur.com/IqdKH1w.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Client machine added to the domain:  <br/>
+<img src="https://i.imgur.com/zhNcWqO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Logged in as a user in the client machine:  <br/>
+<img src="https://i.imgur.com/g4DEzzw.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Address lease in DHCP Server for the client machine:  <br/>
+<img src="https://i.imgur.com/WTxUueq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
